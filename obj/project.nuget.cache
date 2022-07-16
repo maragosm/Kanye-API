@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtC1KOK5eCJCNMymWq06vtn/cWe9KB5cHfYIXbmpEF5vnG9fkwQ+kaEdLEVtgxylnAg29fuMSdD0DkiiMzG5YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marag\\OneDrive\\Desktop\\TrueCode\\Repos\\KanyAPI\\KanyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marag\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

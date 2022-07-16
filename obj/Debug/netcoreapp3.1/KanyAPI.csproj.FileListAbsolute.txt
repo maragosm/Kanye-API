@@ -1,0 +1,16 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\KanyAPI.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.csproj.CopyComplete
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\KanyAPI\obj\Debug\netcoreapp3.1\KanyAPI.genruntimeconfig.cache
